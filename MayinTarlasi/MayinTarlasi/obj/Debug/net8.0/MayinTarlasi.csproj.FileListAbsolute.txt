@@ -1,0 +1,14 @@
+C:\Users\emine\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\net8.0\MayinTarlasi.exe
+C:\Users\emine\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\net8.0\MayinTarlasi.deps.json
+C:\Users\emine\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\net8.0\MayinTarlasi.runtimeconfig.json
+C:\Users\emine\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\net8.0\MayinTarlasi.dll
+C:\Users\emine\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\net8.0\MayinTarlasi.pdb
+C:\Users\emine\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\net8.0\MayinTarlasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emine\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\net8.0\MayinTarlasi.AssemblyInfoInputs.cache
+C:\Users\emine\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\net8.0\MayinTarlasi.AssemblyInfo.cs
+C:\Users\emine\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\net8.0\MayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\emine\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\net8.0\MayinTarlasi.dll
+C:\Users\emine\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\net8.0\refint\MayinTarlasi.dll
+C:\Users\emine\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\net8.0\MayinTarlasi.pdb
+C:\Users\emine\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\net8.0\MayinTarlasi.genruntimeconfig.cache
+C:\Users\emine\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\net8.0\ref\MayinTarlasi.dll
